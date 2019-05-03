@@ -11,3 +11,7 @@ Restarting: sudo service nginx reload
 Config file: /etc/ckan/default/production.ini
 
 Error log file: tail -f  /var/log/httpd/ckan_error.log
+
+Update Permissions for cert file: chmod 400 (Drag File  here)
+
+Public File Path:  /usr/lib/ckan/default/src/ckan/ckan/public/base/images
