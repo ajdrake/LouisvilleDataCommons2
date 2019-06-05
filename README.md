@@ -17,6 +17,7 @@ Update Permissions for cert file: chmod 400 (Drag File  here)
 Public File Path:  /usr/lib/ckan/default/src/ckan/ckan/public/base/images
 
 DKAN Resources
+
 Follow the instructions in this guide just change the code part of obtaining the drupal source code:
 
 Instead of
