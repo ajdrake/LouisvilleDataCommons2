@@ -25,5 +25,7 @@ Instead of
 wget https://ftp.drupal.org/files/projects/drupal-8.3.4.zip
 Download
 
-git clone --branch master https://github.com/GetDKAN/dkan-drops-7.git dkan
+git clone --branch master https://github.com/GetDKAN/dkan-drops-7.git 
+
 Then follow the guide accordingly
+https://www.howtoforge.com/tutorial/how-to-install-and-configure-drupal-on-debian-9/
