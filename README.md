@@ -29,3 +29,7 @@ git clone --branch master https://github.com/GetDKAN/dkan-drops-7.git
 
 Then follow the guide accordingly
 https://www.howtoforge.com/tutorial/how-to-install-and-configure-drupal-on-debian-9/
+
+Google Doc Links:
+About Text(about page): https://docs.google.com/document/d/1wq73t1mLUfFTjMU8arMe8oFwhct2Ei0teWmndlPB7r0/edit?usp=sharing
+Bylaws: https://docs.google.com/document/d/12FSVXbFbkdq1ydorAyfewKHysIXSmrpAz4UpmvxJ9XI/edit?usp=sharing
