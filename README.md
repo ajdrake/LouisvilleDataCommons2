@@ -1,13 +1,20 @@
-# louisvilledatacommons
+# Intro to the Louisville Data Commons project 
+[About Text (about page)]: https://docs.google.com/document/d/1wq73t1mLUfFTjMU8arMe8oFwhct2Ei0teWmndlPB7r0/edit?usp=sharing
+[Bylaws]: https://docs.google.com/document/d/12FSVXbFbkdq1ydorAyfewKHysIXSmrpAz4UpmvxJ9XI/edit?usp=sharing
 
-CKAN Resources
 
-https://docs.ckan.org/en/ckan-2.7.3/user-guide.html
+# CKAN Resources
 
-https://docs.ckan.org/en/ckan-2.7.3/maintaining/index.html
+[CKAN user guide]: https://docs.ckan.org/en/ckan-2.7.3/user-guide.html
+
+[Maintaining CKAN]: https://docs.ckan.org/en/ckan-2.7.3/maintaining/index.html
+
+
+# NGINX commands
 
 Restarting: sudo service nginx reload
 
+# CKAN resources
 Config file: /etc/ckan/default/production.ini
 
 Error log file: tail -f  /var/log/httpd/ckan_error.log
@@ -16,7 +23,9 @@ Update Permissions for cert file: chmod 400 (Drag File  here)
 
 Public File Path:  /usr/lib/ckan/default/src/ckan/ckan/public/base/images
 
-DKAN Resources
+[CKAN andino theme]: https://github.com/datosgobar/portal-andino-theme
+
+# DKAN Resources
 
 Follow the instructions in this guide just change the code part of obtaining the drupal source code:
 
@@ -27,13 +36,10 @@ Download
 
 git clone --branch master https://github.com/GetDKAN/dkan-drops-7.git 
 
+# Drupal resources 
 Then follow the guide accordingly
-https://www.howtoforge.com/tutorial/how-to-install-and-configure-drupal-on-debian-9/
-
-Google Doc Links:
-About Text(about page): https://docs.google.com/document/d/1wq73t1mLUfFTjMU8arMe8oFwhct2Ei0teWmndlPB7r0/edit?usp=sharing
-Bylaws: https://docs.google.com/document/d/12FSVXbFbkdq1ydorAyfewKHysIXSmrpAz4UpmvxJ9XI/edit?usp=sharing
+[Install and configure Drupal]: https://www.howtoforge.com/tutorial/how-to-install-and-configure-drupal-on-debian-9/
 
 
-Cool CKAN look:
-https://github.com/datosgobar/portal-andino-theme
+
+
