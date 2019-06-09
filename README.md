@@ -1,5 +1,6 @@
 # Intro to the Louisville Data Commons project 
 [About Text (about page)]
+
 [Bylaws]
 
 [About Text (about page)]: https://docs.google.com/document/d/1wq73t1mLUfFTjMU8arMe8oFwhct2Ei0teWmndlPB7r0/edit?usp=sharing
@@ -9,6 +10,7 @@
 # CKAN Resources
 
 [CKAN user guide]
+
 [Maintaining CKAN]
 
 [CKAN user guide]: https://docs.ckan.org/en/ckan-2.7.3/user-guide.html
@@ -30,6 +32,7 @@ Update Permissions for cert file: chmod 400 (Drag File  here)
 Public File Path:  ``/usr/lib/ckan/default/src/ckan/ckan/public/base/images``
 
 [CKAN andino theme]
+
 [CKAN andino theme]: https://github.com/datosgobar/portal-andino-theme
 
 # DKAN Resources
@@ -46,6 +49,7 @@ git clone --branch master https://github.com/GetDKAN/dkan-drops-7.git
 # Drupal resources 
 Then follow the guide accordingly
 [Install and configure Drupal]
+
 [Install and configure Drupal]: https://www.howtoforge.com/tutorial/how-to-install-and-configure-drupal-on-debian-9/
 
 
