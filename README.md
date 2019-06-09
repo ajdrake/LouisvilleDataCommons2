@@ -17,12 +17,6 @@
 
 [Maintaining CKAN]: https://docs.ckan.org/en/ckan-2.7.3/maintaining/index.html
 
-
-# NGINX commands
-
-Restarting: ``sudo service nginx reload``
-
-# CKAN resources
 Config file: ``/etc/ckan/default/production.ini``
 
 Error log file: ``tail -f  /var/log/httpd/ckan_error.log``
@@ -35,6 +29,16 @@ Public File Path:  ``/usr/lib/ckan/default/src/ckan/ckan/public/base/images``
 
 [CKAN andino theme]: https://github.com/datosgobar/portal-andino-theme
 
+# NGINX commands
+
+Restarting: ``sudo service nginx reload``
+
+# Drupal resources 
+Then follow the guide accordingly
+[Install and configure Drupal]
+
+[Install and configure Drupal]: https://www.howtoforge.com/tutorial/how-to-install-and-configure-drupal-on-debian-9/
+
 # DKAN Resources
 
 Follow the instructions in this guide just change the code part of obtaining the drupal source code:
@@ -45,13 +49,3 @@ wget https://ftp.drupal.org/files/projects/drupal-8.3.4.zip
 Download
 
 git clone --branch master https://github.com/GetDKAN/dkan-drops-7.git 
-
-# Drupal resources 
-Then follow the guide accordingly
-[Install and configure Drupal]
-
-[Install and configure Drupal]: https://www.howtoforge.com/tutorial/how-to-install-and-configure-drupal-on-debian-9/
-
-
-
-
