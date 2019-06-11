@@ -52,7 +52,7 @@ git clone --branch master https://github.com/GetDKAN/dkan-drops-7.git
 
 # Ways to integrate CKAN with Wordpress
 
-All pages but data are on a wordpress site and the data is a separate CKAN site
+All pages but data are on a wordpress site and the data is a separate CKAN site:
 
 See: [Post 1] & [Post 2]
 
