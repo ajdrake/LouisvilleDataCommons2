@@ -33,23 +33,6 @@ Public File Path:  ``/usr/lib/ckan/default/src/ckan/ckan/public/base/images``
 
 Restarting: ``sudo service nginx reload``
 
-# Drupal resources 
-Then follow the guide accordingly
-[Install and configure Drupal]
-
-[Install and configure Drupal]: https://www.howtoforge.com/tutorial/how-to-install-and-configure-drupal-on-debian-9/
-
-# DKAN Resources
-
-Follow the instructions in this guide just change the code part of obtaining the drupal source code:
-
-Instead of
-
-wget https://ftp.drupal.org/files/projects/drupal-8.3.4.zip
-Download
-
-git clone --branch master https://github.com/GetDKAN/dkan-drops-7.git 
-
 # Ways to integrate CKAN with Wordpress
 
 All pages but data are on a wordpress site and the data is a separate CKAN site:
@@ -68,3 +51,24 @@ Sites: [York Open Data Site] & [Data.gov]
 [Western Pennsylvania Regional Data Center]
 
 [Western Pennsylvania Regional Data Center]: https://www.wprdc.org
+
+
+# DKAN
+
+
+# Drupal resources 
+Then follow the guide accordingly
+[Install and configure Drupal]
+
+[Install and configure Drupal]: https://www.howtoforge.com/tutorial/how-to-install-and-configure-drupal-on-debian-9/
+
+# DKAN Resources
+
+Follow the instructions in this guide just change the code part of obtaining the drupal source code:
+
+Instead of
+
+wget https://ftp.drupal.org/files/projects/drupal-8.3.4.zip
+Download
+
+git clone --branch master https://github.com/GetDKAN/dkan-drops-7.git 
