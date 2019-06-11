@@ -63,3 +63,8 @@ Sites: [York Open Data Site] & [Data.gov]
 [Post 2]: https://www.castlegateit.co.uk/2015/03/ckan-and-wordpress-integration/
 [Slides]: https://metaodi.ch/posts/2016/10/how-we-combined-wordpress-with-ckan/
 [Data.gov]: https://www.data.gov
+
+# Build content on CKAN only
+[Western Pennsylvania Regional Data Center]
+
+[Western Pennsylvania Regional Data Center]: https://www.wprdc.org
