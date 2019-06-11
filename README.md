@@ -59,5 +59,5 @@ See: [Post 1] & [Post 2]
 Site: [York Open Data Site]
 
 [York Open Data Site]: https://www.yorkopendata.org
-[Post]: https://www.yorkopendata.org/ckan-and-wordpress-integration-blog-by-castlegate-it/
+[Post 1]: https://www.yorkopendata.org/ckan-and-wordpress-integration-blog-by-castlegate-it/
 [Post 2]: https://www.castlegateit.co.uk/2015/03/ckan-and-wordpress-integration/
