@@ -56,9 +56,10 @@ All pages but data are on a wordpress site and the data is a separate CKAN site:
 
 See: [Post 1] & [Post 2] & [Slides]
 
-Site: [York Open Data Site]
+Sites: [York Open Data Site] & [Data.gov]
 
 [York Open Data Site]: https://www.yorkopendata.org
 [Post 1]: https://www.yorkopendata.org/ckan-and-wordpress-integration-blog-by-castlegate-it/
 [Post 2]: https://www.castlegateit.co.uk/2015/03/ckan-and-wordpress-integration/
 [Slides]: https://metaodi.ch/posts/2016/10/how-we-combined-wordpress-with-ckan/
+[Data.gov]: https://www.data.gov
