@@ -61,6 +61,7 @@ Sites: [York Open Data Site] & [Data.gov]
 
 Wordpress & CKAN Integration Extensions: [Extensions]
 
+Wordpress Command Line Interface: [CLI]
 
 [York Open Data Site]: https://www.yorkopendata.org
 [Post 1]: https://www.yorkopendata.org/ckan-and-wordpress-integration-blog-by-castlegate-it/
@@ -68,6 +69,7 @@ Wordpress & CKAN Integration Extensions: [Extensions]
 [Slides]: https://metaodi.ch/posts/2016/10/how-we-combined-wordpress-with-ckan/
 [Data.gov]: https://www.data.gov
 [Extensions]: https://extensions.ckan.org
+[CLI]: https://wp-cli.org
 
 # Build content on CKAN only
 [Western Pennsylvania Regional Data Center]
