@@ -59,11 +59,15 @@ See: [Post 1] & [Post 2] & [Slides]
 
 Sites: [York Open Data Site] & [Data.gov]
 
+Wordpress & CKAN Integration Extensions: [Extensions]
+
+
 [York Open Data Site]: https://www.yorkopendata.org
 [Post 1]: https://www.yorkopendata.org/ckan-and-wordpress-integration-blog-by-castlegate-it/
 [Post 2]: https://www.castlegateit.co.uk/2015/03/ckan-and-wordpress-integration/
 [Slides]: https://metaodi.ch/posts/2016/10/how-we-combined-wordpress-with-ckan/
 [Data.gov]: https://www.data.gov
+[Extensions]: https://extensions.ckan.org
 
 # Build content on CKAN only
 [Western Pennsylvania Regional Data Center]
