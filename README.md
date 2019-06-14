@@ -3,9 +3,11 @@
 
 [Bylaws]
 
+[How We Made This]
+
 [About Text (about page)]: https://docs.google.com/document/d/1wq73t1mLUfFTjMU8arMe8oFwhct2Ei0teWmndlPB7r0/edit?usp=sharing
 [Bylaws]: https://docs.google.com/document/d/12FSVXbFbkdq1ydorAyfewKHysIXSmrpAz4UpmvxJ9XI/edit?usp=sharing
-
+[How We Made This]: https://docs.google.com/document/d/15AnzQm2cPlVUfLqsx55BvhemsvGO8kZXMTLs7JId3Ac/edit?usp=sharing
 
 # CKAN Resources
 
