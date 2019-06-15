@@ -10,8 +10,8 @@ Vagrant.configure("2") do |config|
     
 	config.vm.provision :shell, path: "bootstrap_280.sh"
 
-	config.vm.synced_folder "../ckan", "/home/vagrant/sciamlab-ckan/src/ckan", create: true
-	config.vm.synced_folder "../ckanext-spatial", "/home/vagrant/sciamlab-ckan/src/ckanext-spatial", create: true
+	# config.vm.synced_folder "../ckan", "/home/vagrant/sciamlab-ckan/src/ckan", create: true
+	# config.vm.synced_folder "../ckanext-spatial", "/home/vagrant/sciamlab-ckan/src/ckanext-spatial", create: true
 
 	
 end
