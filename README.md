@@ -78,4 +78,10 @@ Wordpress Command Line Interface: [CLI]
 
 [Western Pennsylvania Regional Data Center]: https://www.wprdc.org
 
+# Vagrant resources
+
+''vagrant up''
+''vagrant provision''
+''vagrant ssh''
+
 
