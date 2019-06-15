@@ -1,0 +1,7 @@
+spawn paster user setpass ckan.local -c /etc/ckan/production.ini
+expect -re "Password:"
+send "ckan2017\r"
+expect -re "Confirm password:"
+send "ckan2017\r"
+expect eof
+puts $expect_out(buffer)
