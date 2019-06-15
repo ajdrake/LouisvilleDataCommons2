@@ -81,7 +81,9 @@ Wordpress Command Line Interface: [CLI]
 # Vagrant resources
 
 ``vagrant up``
+
 ``vagrant provision``
+
 ``vagrant ssh``
 
 
