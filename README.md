@@ -17,7 +17,7 @@
 
 [CKAN GIT Repo]
 
-[CKAN GIT Repo]: https://github.com/ckan/ckan.git/usr/lib/ckan/src/ckan
+[CKAN GIT Repo]: https://github.com/ckan/ckan.git
 
 [CKAN user guide]: https://docs.ckan.org/en/ckan-2.7.3/user-guide.html
 
@@ -89,5 +89,7 @@ Wordpress Command Line Interface: [CLI]
 ``vagrant provision``
 
 ``vagrant ssh``
+
+``/usr/lib/ckan/src/ckan``
 
 
