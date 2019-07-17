@@ -23,6 +23,8 @@
 
 [Maintaining CKAN]: https://docs.ckan.org/en/ckan-2.7.3/maintaining/index.html
 
+[SSL and CKAN]: https://github.com/conwetlab/ckanext-oauth2/wiki/Starting-CKAN-over-HTTPs-using-Nginx
+
 Config file: ``/etc/ckan/default/production.ini``
 
 Error log file: ``tail -f  /var/log/httpd/ckan_error.log``
