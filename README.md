@@ -47,7 +47,7 @@ All pages but data are on a wordpress site and the data is a separate CKAN site:
 
 See: [Post 1] & [Post 2] & [Slides]
 
-Sites: [York Open Data Site] & [Data.gov]
+Sites: [York Open Data Site] & [Data.gov] & [Western Pennsylvania Regional Data Center]
 
 Wordpress & CKAN Integration Extensions: [Extensions]
 
@@ -60,10 +60,6 @@ Wordpress Command Line Interface: [CLI]
 [Data.gov]: https://www.data.gov
 [Extensions]: https://extensions.ckan.org
 [CLI]: https://wp-cli.org
-
-# Build content on CKAN only
-[Western Pennsylvania Regional Data Center]
-
 [Western Pennsylvania Regional Data Center]: https://www.wprdc.org
 
 # Vagrant resources
